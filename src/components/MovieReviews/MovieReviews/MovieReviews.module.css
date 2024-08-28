@@ -1,0 +1,30 @@
+.reviews_div {
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 25px 0;
+    text-wrap: wrap;
+}
+
+.reviews_list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 15px 70px;
+}
+
+.reviews_title {
+    margin-bottom: 10px;
+}
+.reviews_text {
+    width: 1000px;
+}
+.no_review_text {
+    margin: 25px;
+    align-self: center;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 8px;
+}
+.no_review_text:hover {
+    transform: scale(1.1);
+}

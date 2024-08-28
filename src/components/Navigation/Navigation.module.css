@@ -1,0 +1,26 @@
+
+.navigation {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+padding: 30px;
+border-bottom: 1px solid black;
+
+}
+
+.link {
+    left: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 15px;
+    
+}
+
+.active {
+    text-decoration: underline;
+    color: red;
+    
+}

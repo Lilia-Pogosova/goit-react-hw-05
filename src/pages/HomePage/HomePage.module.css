@@ -1,0 +1,11 @@
+.home_container {
+    margin-top: 100px;
+    position:static;
+}
+
+.home_title {
+    font-size: 24px;
+    color: black;
+
+    margin-bottom: 20px;
+}
